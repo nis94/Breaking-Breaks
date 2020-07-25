@@ -1,0 +1,9 @@
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\bin\Debug\Bricks Breaker.exe.config
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\bin\Debug\Bricks Breaker.exe
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\bin\Debug\Bricks Breaker.pdb
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.csprojAssemblyReference.cache
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks_Breaker.FormBricks.resources
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks_Breaker.Properties.Resources.resources
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.csproj.GenerateResource.cache
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.exe
+C:\Users\nirol\source\repos\Bricks Breaker\Bricks Breaker\obj\Debug\Bricks Breaker.pdb
